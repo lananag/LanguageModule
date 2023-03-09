@@ -7,7 +7,7 @@ Norwegian.json
 Swedish.json
 
 INSTALLATION
-You can install this language module by cloning the repo. You put this into your server throught your server.js file.
+You can install this language module by cloning the repo. You put this into your server through your server.js file.
 
 USAGE:
 ADD const getJoke = require("./languageModule/dictionary.js") in your server.js and call it using in a function using getJoke with the chosen language id/text sendt along.
